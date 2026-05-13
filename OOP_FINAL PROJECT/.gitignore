@@ -1,0 +1,15 @@
+# Prerequisites
+*.obj
+*.exe
+*.pdb
+*.user
+*.aps
+*.ilk
+*.mac
+
+# Folders
+.vs/
+Debug/
+Release/
+x64/
+x86/
